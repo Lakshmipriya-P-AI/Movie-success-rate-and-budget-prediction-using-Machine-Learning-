@@ -132,6 +132,9 @@ print(class_report)
 # flow of the project
 ![image](https://github.com/Lakshmipriya-P-AI/Movie-success-rate-and-budget-prediction-using-Machine-Learning-/assets/93427923/dde602fc-f537-4990-ba55-0562e2e51d0a)
 
+Firstly, The data set is collected and preprocessed. Using decision tree, The most important five factors are considered to predict the outcome.
+The gross and budget value are predicted using linear regression.
+The success rate is determined using the logistic regression.
 
 # Result
 Finally, gross and budget predictions are made using linear regression. 
